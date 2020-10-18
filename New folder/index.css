@@ -1,0 +1,31 @@
+.title{
+    color:white;
+   text-align: center;
+   background-color: blueviolet;
+}
+span{
+    color:black;
+    font-size: 20px;
+}
+h3{
+    background-color: green;
+    color: white;
+}
+#inputForm{
+    color: white;
+    background-color: orange;
+    padding-left: 500px;
+}
+.buttons{
+    
+    border: 2px solid blue;
+    border-radius: 4px;
+    margin: 8px 8px;
+    padding: 4px 4px;
+    background-color: blue;
+   
+}
+img{
+    float: right;
+    
+}

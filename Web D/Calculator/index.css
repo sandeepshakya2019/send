@@ -1,0 +1,87 @@
+h1{
+	color: green;
+	font-size: 70px;
+}
+.number{
+	color: black;
+	width: 80px;
+	height:80px;
+	background-color: #F7F4F3;
+	
+	border-radius: 10%;
+	margin-bottom:5px;
+	padding:15px;
+}
+.chage{
+	width: 10%;
+}
+.number:active{
+	color: blue;
+	background-color:rgba(0,0,0,.1);
+
+}.number:hover{
+	color: blue;
+	background-color:rgba(0,0,0,.1);
+
+}.operator:hover{
+	color: blue;
+	background-color: hsla(0, 100%, 90%, 0.3);
+
+}.equal:hover{
+	color: blue;
+	background-color: green;
+
+}.clear:hover{
+	color: blue;
+	background-color: orange;
+
+}
+.operator{
+	
+	color: black;
+	width: 80px;
+	height:80px;
+	background-color: hsla(0, 100%, 90%, 0.3);
+	
+	border-radius: 10%;
+	margin-bottom:5px;
+	padding:15px;
+}
+
+.clear{
+	
+	color: black;
+	width: 80px;
+	height:80px;
+	border-radius: 10%;
+	margin-bottom:5px;
+	padding:15px;
+	
+
+	background-color: orange;
+}
+.equal{
+	
+	color: black;
+	width: 80px;
+	height:80px;
+	border-radius: 10%;
+	margin-bottom:5px;
+	padding:15px;
+	background-color: green;
+}
+input{
+	border:   solid black;
+	
+	border-radius:10px;
+	width: 330px;
+	height:40px;
+}
+input:hover{
+	border: 1px solid blue;
+	background-color: #F7F4F3;
+	
+	width: 330px;
+	height:40px;
+}
+/* I am not using the media queries to make it responsive if you want you can do so*/

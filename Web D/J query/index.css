@@ -1,0 +1,14 @@
+.head{
+	color: blue;
+	background-color: yellow;
+	border-radius:20px;
+	display: inline;
+	padding: 5px;
+}
+.btn{
+	color: blue;
+	background-color: orange;
+	border-radius:20px;
+	display: inline;
+	padding: 10px;
+}

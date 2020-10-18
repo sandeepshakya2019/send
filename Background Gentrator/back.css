@@ -1,0 +1,12 @@
+h1 {
+    font-weight: 500px;
+    text-align: center;
+    color: red;
+    
+}
+
+body {
+    text-align: center;
+    letter-spacing: .5em;
+    background: linear-gradient(to right,red,yellow)
+}
